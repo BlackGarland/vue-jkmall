@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "首页",
+  "usingComponents": {
+    "uni-badge": "/components/uni/uni-badge/uni-badge",
+    "uni-grid": "/components/uni/uni-grid/uni-grid",
+    "uni-grid-item": "/components/uni/uni-grid-item/uni-grid-item",
+    "goods-list": "/components/goodlist/goodlist"
+  }
+}

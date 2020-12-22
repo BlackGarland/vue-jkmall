@@ -1,0 +1,9 @@
+{
+  "current": null,
+  "modes": [
+    {
+      "title": "news",
+      "page": "pages/news/news"
+    }
+  ]
+}

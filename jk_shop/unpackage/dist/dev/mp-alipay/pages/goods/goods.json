@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "极客超市",
+  "pullRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goodlist/goodlist"
+  }
+}

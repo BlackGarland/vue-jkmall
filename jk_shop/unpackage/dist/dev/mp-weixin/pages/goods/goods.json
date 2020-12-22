@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "极客超市",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goodlist/goodlist"
+  }
+}

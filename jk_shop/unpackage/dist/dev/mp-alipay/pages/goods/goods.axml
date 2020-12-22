@@ -1,0 +1,1 @@
+<view class="hot_goods"><view class="tit">推荐商品</view><goods-list vue-id="57830b30-1" goods="{{goods}}" onVueInit="__l"></goods-list><block a:if="{{flag}}"><view class="over_line">----------我是有底线的----------</view></block></view>
